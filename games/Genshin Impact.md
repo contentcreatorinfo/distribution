@@ -2,7 +2,7 @@
 
 ## Get the Game:
 [Android](https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact)  
-[Epic](https://store.epicgames.com/de/p/genshin-impact)  
+[Epic](https://store.epicgames.com/p/genshin-impact)  
 [Official](https://genshin.hoyoverse.com/en)  
 [Playstation](https://www.playstation.com/de-de/games/genshin-impact/)  
 [iOS](https://apps.apple.com/us/app/genshin-impact/id1517783697)  
