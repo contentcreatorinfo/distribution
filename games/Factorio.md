@@ -1,17 +1,24 @@
 # Factorio
 
-| **Method**   |    | **Note**                 |
-|--------------|----|--------------------------|
-| Video        | ✅ |                          |
-| Streaming    | ✅ |                          |
-| Soundtrack   | ❔ | (no information found)   |
-| Monetisation | ✅ |                          |
+## Get the Game:
+[GOG](https://www.gog.com/game/factorio)  
+[Humble](https://www.humblebundle.com/store/factorio)  
+[Nintendo](https://www.nintendo.com/store/products/factorio-switch/)  
+[Official](https://www.factorio.com/buy)  
+[Steam](https://store.steampowered.com/app/427520/)  
+
+|**Method**|**Status**|**Note**|
+|---|---|---|
+|Video|✅||
+|Streaming|✅||
+|Soundtrack|❔||
+|Monetisation|✅||
 
 ## Sources
-[Presskit](https://factorio.com/support/press-kit)
+[FAQ](https://factorio.com/support/press-kit)  
 
 ## Last Update:
-19.12.2023
+19.11.2024
 
 # Disclaimer
 **This information is not a warranty.**  

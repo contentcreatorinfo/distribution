@@ -1,17 +1,20 @@
 # X4: Foundations
 
-| **Method**   |    | **Note**                 |
-|--------------|----|--------------------------|
-| Video        | ✅ | (no paywall)             |
-| Streaming    | ✅ | (no paywall)             |
-| Soundtrack   | ✅ | (only within gamescenes) |
-| Monetisation | ✅ | (via advertising)        |
+## Get the Game:
+[Steam](https://store.steampowered.com/app/392160/)  
+
+|**Method**|**Status**|**Note**|
+|---|---|---|
+|Video|✅|no paywall|
+|Streaming|✅|no paywall|
+|Soundtrack|✅|only within the game|
+|Monetisation|✅|via platform advertising|
 
 ## Sources
-[Egosoft FAQ](https://www.egosoft.com/support/faq/faq_answer_en.php?answer=2192)
+[FAQ](https://www.egosoft.com/support/faq/faq_answer_en.php?answer=2192)  
 
 ## Last Update:
-19.12.2023
+19.11.2024
 
 # Disclaimer
 **This information is not a warranty.**  

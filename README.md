@@ -8,6 +8,12 @@ We always need help to gather the necessary information, please contribute.
 ```
 # <Gamename>
 
+## Get the Game:
+[Official Store](https://example.com/)
+[GOG](https://www.gog.com/)
+[Steam](https://store.steampowered.com/)
+[Epic](https://store.epicgames.com/)
+
 | **Method**   |    | **Note**                 |
 |--------------|----|--------------------------|
 | Video        | ✅ | (no paywall)             |
