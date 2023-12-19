@@ -8,7 +8,7 @@
 [Xbox](https://www.microsoft.com/p/minecraft-dungeons/9N8NJ74FZTG9)  
 
 |**Method**|**Status**|**Note**|
-|---|---|---|
+|---|:---:|---|
 |Video|✅||
 |Streaming|✅||
 |Soundtrack|❕|only within the game|

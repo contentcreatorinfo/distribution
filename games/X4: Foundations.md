@@ -4,7 +4,7 @@
 [Steam](https://store.steampowered.com/app/392160/)  
 
 |**Method**|**Status**|**Note**|
-|---|---|---|
+|---|:---:|---|
 |Video|✅|no paywall|
 |Streaming|✅|no paywall|
 |Soundtrack|❕|only within the game|

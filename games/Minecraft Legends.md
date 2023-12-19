@@ -8,7 +8,7 @@
 [Xbox](https://www.xbox.com/games/store/minecraft-legends/9nf0d13rpx5l)  
 
 |**Method**|**Status**|**Note**|
-|---|---|---|
+|---|:---:|---|
 |Video|✅||
 |Streaming|✅||
 |Soundtrack|❕|only within the game|

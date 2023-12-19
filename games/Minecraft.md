@@ -4,7 +4,7 @@
 [Official](https://www.minecraft.net/)  
 
 |**Method**|**Status**|**Note**|
-|---|---|---|
+|---|:---:|---|
 |Video|✅||
 |Streaming|✅||
 |Soundtrack|❕|only within the game|

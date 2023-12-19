@@ -8,7 +8,7 @@
 [iOS](https://apps.apple.com/us/app/genshin-impact/id1517783697)  
 
 |**Method**|**Status**|**Note**|
-|---|---|---|
+|---|:---:|---|
 |Video|✅||
 |Streaming|✅||
 |Soundtrack|❕|only within the game|

@@ -11,12 +11,12 @@ We always need help to gather the necessary information, please contribute.
 ## Get the Game:
 [<shopname>](<url>)  
 
-| **Method** |**Status**|   **Note**   |
-|------------|----------|--------------|
-|Video       | ✅/❌/❔ |aditional info|
-|Streaming   | ✅/❌/❔ |aditional info|
-|Soundtrack  | ✅/❌/❔ |aditional info|
-|Monetisation| ✅/❌/❔ |aditional info|
+| **Method** |  **Status** |   **Note**   |
+|------------|:-----------:|--------------|
+|Video       | ✅/❕/❌/❔ |aditional info|
+|Streaming   | ✅/❕/❌/❔ |aditional info|
+|Soundtrack  | ✅/❕/❌/❔ |aditional info|
+|Monetisation| ✅/❕/❌/❔ |aditional info|
 
 ## Sources
 [FAQ](https://example.com/faq/)

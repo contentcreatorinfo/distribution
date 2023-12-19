@@ -10,7 +10,7 @@
 [iOS](https://apps.apple.com/app/minecraft/id479516143)  
 
 |**Method**|**Status**|**Note**|
-|---|---|---|
+|---|:---:|---|
 |Video|✅||
 |Streaming|✅||
 |Soundtrack|❕|only within the game|

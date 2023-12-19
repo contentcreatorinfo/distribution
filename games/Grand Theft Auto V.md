@@ -5,7 +5,7 @@
 [Steam](https://store.steampowered.com/app/271590/)  
 
 |**Method**|**Status**|**Note**|
-|---|---|---|
+|---|:---:|---|
 |Video|✅||
 |Streaming|✅||
 |Soundtrack|❔|ingame radio maybe problematic|

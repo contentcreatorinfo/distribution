@@ -4,7 +4,7 @@
 [Steam](https://store.steampowered.com/app/1966720/)  
 
 |**Method**|**Status**|**Note**|
-|---|---|---|
+|---|:---:|---|
 |Video|❔||
 |Streaming|❔||
 |Soundtrack|❔||

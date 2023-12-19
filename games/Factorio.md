@@ -8,7 +8,7 @@
 [Steam](https://store.steampowered.com/app/427520/)  
 
 |**Method**|**Status**|**Note**|
-|---|---|---|
+|---|:---:|---|
 |Video|✅||
 |Streaming|✅||
 |Soundtrack|❔||
