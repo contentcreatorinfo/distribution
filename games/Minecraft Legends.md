@@ -5,7 +5,7 @@
 [Official](https://www.minecraft.net/)  
 [Playstation](https://store.playstation.com/concept/10000771)  
 [Steam](https://store.steampowered.com/app/1928870/)  
-[Xbox](hhttps://www.xbox.com/games/store/minecraft-legends/9nf0d13rpx5l)  
+[Xbox](https://www.xbox.com/games/store/minecraft-legends/9nf0d13rpx5l)  
 
 |**Method**|**Status**|**Note**|
 |---|---|---|
