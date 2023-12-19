@@ -1,21 +1,17 @@
-# Factorio
+# Star Citizen
 
 ## Get the Game:
-[GOG](https://www.gog.com/game/factorio)  
-[Humble](https://www.humblebundle.com/store/factorio)  
-[Nintendo](https://www.nintendo.com/store/products/factorio-switch/)  
-[Official](https://www.factorio.com/buy)  
-[Steam](https://store.steampowered.com/app/427520/)  
+[Official](https://robertsspaceindustries.com/star-citizen)  
 
 |**Method**|**Status**|**Note**|
 |---|:---:|---|
-|Video|✅||
-|Streaming|✅||
-|Soundtrack|❔||
-|Monetisation|✅||
+|Video|✅|no paywall|
+|Streaming|✅|no paywall|
+|Soundtrack|❕|only within the game|
+|Monetisation|✅|via platform monetisation|
 
 ## Sources
-[FAQ](https://factorio.com/support/press-kit)  
+[FAQ](https://example.com/)  
 
 ## Last Update:
 19.11.2024

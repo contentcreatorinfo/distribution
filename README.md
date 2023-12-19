@@ -31,5 +31,4 @@ Publisher's policies are subject to change
 ```
 
 # Disclaimer
-**This information is not a warranty.**  
-Publisher's policies are subject to change
+**The Game informations are not a warranty.**  
