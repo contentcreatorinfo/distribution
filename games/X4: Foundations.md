@@ -7,7 +7,7 @@
 |---|---|---|
 |Video|✅|no paywall|
 |Streaming|✅|no paywall|
-|Soundtrack|✅|only within the game|
+|Soundtrack|❕|only within the game|
 |Monetisation|✅|via platform advertising|
 
 ## Sources

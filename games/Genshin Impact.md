@@ -11,7 +11,7 @@
 |---|---|---|
 |Video|✅||
 |Streaming|✅||
-|Soundtrack|✅|only within the game|
+|Soundtrack|❕|only within the game|
 |Monetisation|✅|via platform advertising|
 
 ## Sources
