@@ -5,31 +5,29 @@ This repository is aimed at content creators who are tired of searching for info
 We always need help to gather the necessary information, please contribute.  
 
 ## Template:
-```
-# <Gamename>
+```MD
+# <gamename>
 
 ## Get the Game:
-[Official Store](https://example.com/)
-[GOG](https://www.gog.com/)
-[Steam](https://store.steampowered.com/)
-[Epic](https://store.epicgames.com/)
+[<shopname>](<url>)  
 
-| **Method**   |    | **Note**                 |
-|--------------|----|--------------------------|
-| Video        | ✅ | (no paywall)             |
-| Streaming    | ❌ | (no livestreams)         |
-| Soundtrack   | ✅ | (only within gamescenes) |
-| Monetisation | ❌ | (via advertising)        |
+| **Method** |**Status**|   **Note**   |
+|------------|----------|--------------|
+|Video       | ✅/❌/❔ |aditional info|
+|Streaming   | ✅/❌/❔ |aditional info|
+|Soundtrack  | ✅/❌/❔ |aditional info|
+|Monetisation| ✅/❌/❔ |aditional info|
 
 ## Sources
-[Example FAQ](https://example.com)
+[FAQ](https://example.com/faq/)
 
 ## Last Update:
-19.12.2023
+dd.mm.yyyy
 
 # Disclaimer
 **This information is not a warranty.**  
 Publisher's policies are subject to change
+
 ```
 
 # Disclaimer
